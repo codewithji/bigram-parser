@@ -10,7 +10,7 @@ Node.js/JavaScript
 
 To run the application, please type the following in the command line:
 ```
-node appRunner.js /path/to/your/txt/file
+node app-runner.js /path/to/your/txt/file
 ```
 For instance, if you have a text file in the root of the app directory named "sample.txt" that includes the text
 ```
@@ -18,7 +18,7 @@ The quick brown fox and the quick blue hare.
 ```
 you will run the app by typing
 ```
-node appRunner.js sample.txt
+node app-runner.js sample.txt
 ```
 and that should output in the terminal
 ```
